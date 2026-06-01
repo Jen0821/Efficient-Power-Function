@@ -1,4 +1,4 @@
-# ⚡ Haskell Power Function Implementation and Efficiency Comparison
+# Haskell Power Function Implementation and Efficiency Comparison
 
 ## Overview
 
